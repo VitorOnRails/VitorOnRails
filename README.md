@@ -7,6 +7,8 @@
 
 <hr>
 
+<h2 allign="left">📊 Status</h2>
+
 <p align="center">
   <table border="0" align="center">
     <tr>
