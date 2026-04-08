@@ -16,6 +16,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           committer_token: ${{ secrets.GITHUB_TOKEN }}
           template: terminal
-          base: header, activity, community, repositories, metadata
+          base: header
+          base_hierarchical: no
+          base_metadata: no
           config_timezone: America/Sao_Paulo
           filename: github-metrics.svg
