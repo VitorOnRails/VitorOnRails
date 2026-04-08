@@ -10,7 +10,7 @@
 <h2 align="left">📊 Status</h2>
 
 <a href="#vitor-title">
-  <img src="https://raw.githubusercontent.com/VitorOnRails/github-stats-transparent/output/generated/overview.svg" alt="vitor profile stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=VitorOnRails&show_icons=true&theme=tokyonight" alt="vitor profile stats" />
 </a>
 <a href="#vitor-title">
   <img src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=true&title_color=39&text_color=ffffff" alt="vitor used languages" />
