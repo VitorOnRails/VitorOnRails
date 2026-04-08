@@ -10,8 +10,8 @@
 <h2 align="left">📊 Status</h2>
 
 <a href="#vitor-title">
-  <img height="190" src="./github-metrics.svg" alt="vitor stats" />
+  <img src="./github-metrics.svg" alt="vitor stats" />
 </a>
 <a href="#vitor-title">
-  <img height="190" src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=true&title_color=39&text_color=ffffff" alt="vitor most used languages" />
+  <img src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=true&title_color=39&text_color=ffffff" alt="vitor most used languages" />
 </a>
