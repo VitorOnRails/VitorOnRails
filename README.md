@@ -10,9 +10,9 @@
 <h2 align="left">📊 Status</h2>
 
 <div align="center">
-  <img src="github-metrics.svg" width="600" />
+  <img src="" width="600" />
 
   <br><br>
 
-  <img src="https://github-readme-stats.vercel.app/api?username=VitorOnRails&show_icons=true&theme=tokyonight" height="180" />
+  <img src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=true&title_color=39&text_color=ffffff" height="180" />
 </div>
