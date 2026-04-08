@@ -9,10 +9,9 @@
 
 <h2 align="left">📊 Status</h2>
 
-<div align="center">
-  <img src="" width="600" />
-
-  <br><br>
-
-  <img src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=true&title_color=39&text_color=ffffff" height="180" />
-</div>
+<a href="#vitor-title">
+  <img src="https://raw.githubusercontent.com/VitorOnRails/github-stats-transparent/output/generated/overview.svg" alt="vitor profile stats" />
+</a>
+<a href="#vitor-title">
+  <img src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=true&title_color=39&text_color=ffffff" alt="vitor used languages" />
+</a>
