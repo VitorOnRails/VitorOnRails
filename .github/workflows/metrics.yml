@@ -19,11 +19,3 @@ jobs:
           base: header, activity, community, repositories, metadata
           config_timezone: America/Sao_Paulo
           filename: github-metrics.svg
-      
-      - name: Commit metrics
-        run: |
-          git config --global user.email "action@github.com"
-          git config --global user.name "GitHub Action"
-          git add github-metrics.svg
-          git commit -m "Update metrics" || true
-          git push
