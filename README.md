@@ -2,7 +2,7 @@
 
 ## Desenvolvedor front-end
 
-- 👨🏼‍💻 Atualmente estou construíndo um novo portfólio.
+- 👨🏼‍💻 Atualmente consolidando conhecimentos em HTML e CSS.
 - 📚 Aprendendo sobre TypeScript
 
 <hr>
