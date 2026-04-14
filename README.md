@@ -3,7 +3,7 @@
 ## Desenvolvedor front-end
 
 - 👨🏼‍💻 Atualmente estou construíndo um novo portfólio.
-- 📚 Aprendendo sobre Flutter
+- 📚 Aprendendo sobre TypeScript
 
 <hr>
 
