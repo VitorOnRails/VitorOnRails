@@ -1,12 +1,66 @@
-<h1 align="center">Salve! Me chamo Vitor.</h1>
+# Salve! Me chamo Vitor. 👋
 
-## Desenvolvedor front-end
+Desenvolvedor front-end focado em interfaces bem construídas e experiências visuais cuidadosas.
 
-- 👨🏼‍💻 Atualmente consolidando conhecimentos em HTML e CSS
-- 📚 Aprendendo sobre TypeScript
+Atualmente aprofundando conhecimentos em React e explorando o lado criativo do front-end,
+de interfaces com boa UX até experimentos com 3D e animações.
 
-<hr>
+## 🛠 Tecnologias
 
-<h2 align="left">📊 Status</h2>
+HTML · CSS · JavaScript · TypeScript · React · Tailwind · Chakra UI · Three.js
 
-<a href="#vitor-title"><img height="180" src="https://github-readme-stats-psi-steel-21.vercel.app/api?username=VitorOnRails&show_icons=true&theme=dark&bg_color=000000&hide_border=false&border_color=8b949e&border_radius=10&hide_rank=true&title_color=F1E05A&text_color=8b949e" /></a>&nbsp;<a href="#vitor-title">&nbsp;</a>&nbsp;<a href="#vitor-title"><img height="180rem" src="https://github-readme-stats-psi-steel-21.vercel.app/api/top-langs?username=VitorOnRails&layout=compact&langs_count=8&theme=dark&bg_color=000000&hide_border=false&border_color=8b949e&border_radius=10&title_color=F1E05A&text_color=8b949e" /></a>
+## 🗂 Projetos
+
+### 🎲 Icosahedrongame
+Sorteador de d20 3D com aurora animada e partículas flutuantes.
+
+`React` `Three.js` `Tailwind`
+
+[ver projeto →](https://github.com/VitorOnRails/icosahedrongame)
+
+---
+
+### 🎲 Dicegame
+Jogo de dados com sistema de pontuação em tempo real.  
+`React` `Styled-Components`  
+[ver projeto →](https://github.com/VitorOnRails/dicegame)
+
+---
+
+### 🍺 Taverna
+Cardápio digital medieval com filtros e Glassmorphism.  
+
+`React` `Express` `Styled-Components`  
+
+[ver projeto →](https://github.com/VitorOnRails/taverna)
+
+---
+
+### 🌐 circle-network
+CRUD de contatos com sincronização em tempo real.  
+
+`React` `Firebase` `Tailwind`  
+
+[ver projeto →](https://github.com/VitorOnRails/circle-network)
+
+---
+
+### 📈 Crypto Finance
+Dashboard de criptomoedas.  
+
+`React` `Chakra UI`  
+
+[ver projeto →](https://github.com/VitorOnRails/crypto)
+
+---
+
+### 🐱 Cat Playground
+Sandbox HTML/CSS com semântica, tabelas e formulários.  
+
+`HTML` `CSS`  
+
+[ver projeto →](https://github.com/VitorOnRails/cat-playground)
+
+## 📬 Contato
+
+kunzuketta@gmail.com
